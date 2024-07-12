@@ -1,0 +1,83 @@
+QTableWidget {
+    background-color: #f8f9fa;
+    alternate-background-color: #f0f0f0;
+    selection-background-color: #007bff;
+    border: 1px solid #dee2e6;
+}
+
+QTableWidget::item {
+    padding: 10px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+QHeaderView::section {
+    background-color: black;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+}
+
+QHeaderView::section:checked {
+    background-color: #0056b3;
+}
+
+QHeaderView::section:pressed {
+    background-color: #0056b3;
+}
+
+
+QGroupBox {
+    border: none;
+    padding: 10px;
+}
+
+QRadioButton {
+    border: 2px solid transparent;
+    border-radius: 15px;
+    padding: 5px 15px;
+    margin: 0 10px;
+    background-color: lightgray;
+}
+
+QRadioButton::indicator {
+    width: 0px;
+    height: 0px;
+}
+
+QRadioButton:checked {
+    color: white;
+}
+
+
+QRadioButton#radioButton_5:checked {
+    background-color: black;
+}
+
+QRadioButton#radioButton_2:checked  {
+    background-color: #002D62;
+}
+
+QRadioButton#radioButton_3:checked  {
+    background-color: #558b2f;
+}
+
+
+QRadioButton#radioButton_4:checked  {
+    background-color: #e65100;
+}
+
+
+QRadioButton#radioButton:checked  {
+    background-color: #8e24aa;
+}
+
+
+QLineEdit, QComboBox, QDateEdit {
+    padding: 0.3em;
+    border-radius: 0.3em;
+    font-size: 1.1em;
+}
+
+QLineEdit:hover, QLineEdit:focus, QComboBox:hover, QComboBox:focus, QDateEdit:hover, QDateEdit:focus {
+    border: 1px solid black;
+}

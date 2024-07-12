@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Icons/business_application_addmale_useradd_insert_add_user_client_2312.ico</file>
+        <file>Icons/business_man_user_alert_alerttheuser_askthecustomer_negocio_2331.ico</file>
+        <file>Icons/business_man_user_support_supportfortheuser_aquestion_theclient_2330.ico</file>
+        <file>Icons/business_man_usersearch_thesearch_theclient_2356.ico</file>
+        <file>Icons/businessapplication_accept_ok_male_man_you_negocio_2311.ico</file>
+        <file>Icons/businessapplication_edit_male_user_thepencil_theclient_negocio_2321.ico</file>
+        <file>Icons/delete_delete_deleteusers_delete_male_user_maleclient_2348.ico</file>
+        <file>Icons/export_icon-icons.com_52383.ico</file>
+        <file>Icons/import_icon-icons.com_52387.ico</file>
+        <file>Icons/Refresh_36729.ico</file>
+        <file>Icons/ballpoint_pen_stationery_notes_paper_sticky_note_icon_256745.ico</file>
+        <file>Icons/qt_94938.ico</file>
+        <file>Icons/new-file_40454.ico</file>
+        <file>Icons/systemshutdown_103390.ico</file>
+        <file>Icons/dscontact.ico</file>
+    </qresource>
+</RCC>

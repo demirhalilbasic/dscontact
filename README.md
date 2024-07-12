@@ -4,8 +4,6 @@
   <img src="https://i.postimg.cc/W4n0jk9M/dscontact-logo-transparent-resize.png" alt="DSContact Logo Transparent">
 </p>
 
-@Sakib-Avdi
-
 This application is my fourth major project developed as a part of my coursework in collaboration with a fellow student, [Sakib Avdibašić](https://github.com/Sakib-Avdibasic), at Internacionalna poslovno-informaciona akademija Tuzla. It was built using the Qt framework in C++.
 
 The application displays a list of contacts that are loaded from a "contacts.csv" file upon startup. The user interface shows information such as first name, last name, email, phone number, and the contact category.

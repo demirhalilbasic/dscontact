@@ -6,8 +6,6 @@
 
 This application is my fourth major project developed as a part of my coursework at Internacionalna poslovno-informaciona akademija Tuzla. It was built using the Qt framework in C++ in collaboration with a fellow student.
 
----
-
 ### 👥 Project Contributors
 
 <table>
@@ -68,13 +66,9 @@ Users can also create a completely new (empty) contact list. The application inc
 
 The application boasts a modern design, with significant attention given to functionality and user experience (UX). Most interactions are performed through a graphical interface, showcased in the screenshots above.
 
----
-
 ## ▶️ YouTube Overview
 
 [![DSContact App Overview](images/dscontact_thumbnail.png)](https://www.youtube.com/watch?v=Oevu9PG1m58)
-
----
 
 ## 👍 Feedback
 

@@ -20,8 +20,8 @@ This application is my fourth major project developed as a part of my coursework
       Co-developer of the DSContact project. Worked on core architecture, UI logic and CSV data handling.
     </td>
     <td align="left">
-      🔗 <a href="https://github.com/Sakib-Avdibasic">GitHub</a><br/>
-      🔗 <a href="https://www.linkedin.com/in/sakib-avdibasic/">LinkedIn</a>
+      <a href="https://github.com/Sakib-Avdibasic">GitHub</a><br/>
+      <a href="https://www.linkedin.com/in/sakib-avdibasic/">LinkedIn</a>
     </td>
   </tr>
   <tr>
@@ -33,9 +33,9 @@ This application is my fourth major project developed as a part of my coursework
       Lead contributor. Designed UI, implemented CRUD logic, birthday automation and email integration.
     </td>
     <td align="left">
-      🔗 <a href="https://github.com/demirhalilbasic">GitHub</a><br/>
-      🔗 <a href="https://www.linkedin.com/in/demir-halilbasic/">LinkedIn</a><br/>
-      🔗 <a href="https://www.youtube.com/@DemkyDesignHub">YouTube</a>
+      <a href="https://github.com/demirhalilbasic">GitHub</a><br/>
+      <a href="https://www.linkedin.com/in/demir-halilbasic/">LinkedIn</a><br/>
+      <a href="https://www.youtube.com/@DemkyDesignHub">YouTube</a>
     </td>
   </tr>
 </table>

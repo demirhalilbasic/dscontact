@@ -13,8 +13,10 @@ This application is my fourth major project developed as a part of my coursework
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="images/sakib_pfp.png" width="70" alt="Sakib Avdibasic"><br/>
-      <strong>Sakib Avdibašić</strong>
+      <a href="https://github.com/Sakib-Avdibasic">
+        <img src="images/sakib_pfp.png" width="70" alt="Sakib Avdibasic"><br/>
+        <strong>Sakib Avdibašić</strong>
+      </a>
     </td>
     <td align="left">
       Co-developer of the DSContact project. Worked on core architecture, UI logic and CSV data handling.
@@ -26,8 +28,10 @@ This application is my fourth major project developed as a part of my coursework
   </tr>
   <tr>
     <td align="center">
-      <img src="images/demir_pfp.png" width="70" alt="Demir Halilbasic"><br/>
-      <strong>Demir Halilbašić</strong>
+      <a href="https://github.com/demirhalilbasic">
+        <img src="images/demir_pfp.png" width="70" alt="Demir Halilbasic"><br/>
+        <strong>Demir Halilbašić</strong>
+      </a>
     </td>
     <td align="left">
       Lead contributor. Designed UI, implemented CRUD logic, birthday automation and email integration.
